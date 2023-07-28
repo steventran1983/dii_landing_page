@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.162d1b2b.css",
-    "main.js": "/static/js/main.2d6f6d98.js",
-    "index.html": "/index.html",
-    "main.162d1b2b.css.map": "/static/css/main.162d1b2b.css.map",
-    "main.2d6f6d98.js.map": "/static/js/main.2d6f6d98.js.map"
+    "main.css": "/rdii_landing_page/static/css/main.162d1b2b.css",
+    "main.js": "/rdii_landing_page/static/js/main.2d6f6d98.js",
+    "index.html": "/rdii_landing_page/index.html",
+    "main.162d1b2b.css.map": "/rdii_landing_page/static/css/main.162d1b2b.css.map",
+    "main.2d6f6d98.js.map": "/rdii_landing_page/static/js/main.2d6f6d98.js.map"
   },
   "entrypoints": [
     "static/css/main.162d1b2b.css",
